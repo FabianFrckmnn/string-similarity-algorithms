@@ -1,8 +1,4 @@
-Here's a simplified and updated version of the `README.md` file that includes information about using `conda` for setting up the environment, and removes the "Contributing" section.
-
----
-
-# Project Name
+# Data Matching and String Similarity Pipeline
 
 This project is a data processing and matching pipeline designed to handle multiple CSV files, perform data preprocessing, and execute various matching algorithms to find similarities between records. The project utilizes machine learning and string-matching algorithms to compare and match records.
 
